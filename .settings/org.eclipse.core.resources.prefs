@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/BookingController.java=UTF-8
+encoding//src/main/java/controller/LoginController.java=UTF-8
+encoding//src/main/java/controller/ManagerController.java=UTF-8
+encoding//src/main/java/controller/MovieController.java=UTF-8
+encoding//src/main/java/controller/searchController.java=UTF-8
+encoding//src/main/java/dao/MovieDAO.java=UTF-8
+encoding//src/main/java/service/MovieService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/movie/movie.jsp=UTF-8
+encoding/<project>=UTF-8
